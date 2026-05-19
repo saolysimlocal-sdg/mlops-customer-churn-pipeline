@@ -2,11 +2,13 @@ from flask import Flask, request, jsonify
 import joblib
 import pandas as pd
 
+
 # Initialize Flask app
 app = Flask(__name__)
 
 # Load trained model
 model = joblib.load("models/churn_model.pkl")
+
 
 # Health check endpoint
 @app.route("/health", methods=["GET"])
