@@ -1,0 +1,14 @@
+artifact_uri: file:///home/saolydasgupta/mlops-customer-churn-pipeline/mlruns/0/45a23c4796844d7f91742ee481f1a7dc/artifacts
+end_time: 1779146391325
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45a23c4796844d7f91742ee481f1a7dc
+run_name: blushing-dog-72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779146386194
+status: 3
+tags: []
+user_id: saolydasgupta

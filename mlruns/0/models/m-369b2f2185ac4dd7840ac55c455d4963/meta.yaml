@@ -1,0 +1,10 @@
+artifact_location: file:///home/saolydasgupta/mlops-customer-churn-pipeline/mlruns/0/models/m-369b2f2185ac4dd7840ac55c455d4963/artifacts
+creation_timestamp: 1779146387339
+experiment_id: '0'
+last_updated_timestamp: 1779146391320
+model_id: m-369b2f2185ac4dd7840ac55c455d4963
+model_type: null
+name: random_forest_model
+source_run_id: 45a23c4796844d7f91742ee481f1a7dc
+status: 2
+status_message: null
