@@ -46,5 +46,3 @@ mlflow.sklearn.log_model(model, "random_forest_model")
 mlflow.end_run()
 
 print("Training completed successfully!")
-
-
